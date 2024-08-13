@@ -21,12 +21,7 @@
 				"adapter": "kotlin"
 			}
 		],
-		"client": [
-			{
-				"value": "dev.jpruitt.spellcraft.SpellcraftClient",
-				"adapter": "kotlin"
-			}
-		],
+		"client": [],
 		"fabric-datagen": [
 			{
 				"value": "dev.jpruitt.spellcraft.SpellcraftDataGenerator",

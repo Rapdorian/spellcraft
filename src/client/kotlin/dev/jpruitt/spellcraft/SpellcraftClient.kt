@@ -1,9 +1,0 @@
-package dev.jpruitt.spellcraft
-
-import net.fabricmc.api.ClientModInitializer
-
-object SpellcraftClient : ClientModInitializer {
-	override fun onInitializeClient() {
-		// This entrypoint is suitable for setting up client-specific logic, such as rendering.
-	}
-}
